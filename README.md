@@ -1,5 +1,6 @@
-Hi, I’m @Charlie Rosen
+### Hi, I’m @Charlie Rosen
 Here are just a few of my public repos.
+
 
 <!---
 CARosss/CARosss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
